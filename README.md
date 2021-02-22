@@ -1,7 +1,7 @@
 # 20483-Programming-in-C
 https://unitedtraining.com/course-outline/courseid/200009890/coursename/20483-programming-in-c-sharp
 
-Course Objectives:
+Course Objectives:<br />
   -After completing this course, students will be able to:
   -Describe the core syntax and features of Visual C#.
   -Create methods, handle exceptions, and describe the monitoring requirements of large-scale applications.
