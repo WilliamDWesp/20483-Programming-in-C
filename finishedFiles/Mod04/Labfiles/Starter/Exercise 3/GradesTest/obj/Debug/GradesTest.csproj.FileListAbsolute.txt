@@ -1,0 +1,17 @@
+E:\github\20483-Programming-in-C\finishedFiles\Mod04\Labfiles\Starter\Exercise 3\GradesTest\obj\Debug\GradesTest.csprojAssemblyReference.cache
+E:\github\20483-Programming-in-C\finishedFiles\Mod04\Labfiles\Starter\Exercise 3\GradesTest\obj\Debug\GradesTest.csproj.CoreCompileInputs.cache
+E:\github\20483-Programming-in-C\finishedFiles\Mod04\Labfiles\Starter\Exercise 3\GradesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\github\20483-Programming-in-C\finishedFiles\Mod04\Labfiles\Starter\Exercise 3\GradesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\github\20483-Programming-in-C\finishedFiles\Mod04\Labfiles\Starter\Exercise 3\GradesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\github\20483-Programming-in-C\finishedFiles\Mod04\Labfiles\Starter\Exercise 3\GradesTest\bin\Debug\GradesTest.dll
+E:\github\20483-Programming-in-C\finishedFiles\Mod04\Labfiles\Starter\Exercise 3\GradesTest\bin\Debug\GradesTest.pdb
+E:\github\20483-Programming-in-C\finishedFiles\Mod04\Labfiles\Starter\Exercise 3\GradesTest\bin\Debug\GradesPrototype.exe
+E:\github\20483-Programming-in-C\finishedFiles\Mod04\Labfiles\Starter\Exercise 3\GradesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\github\20483-Programming-in-C\finishedFiles\Mod04\Labfiles\Starter\Exercise 3\GradesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\github\20483-Programming-in-C\finishedFiles\Mod04\Labfiles\Starter\Exercise 3\GradesTest\bin\Debug\GradesPrototype.pdb
+E:\github\20483-Programming-in-C\finishedFiles\Mod04\Labfiles\Starter\Exercise 3\GradesTest\bin\Debug\GradesPrototype.exe.config
+E:\github\20483-Programming-in-C\finishedFiles\Mod04\Labfiles\Starter\Exercise 3\GradesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\github\20483-Programming-in-C\finishedFiles\Mod04\Labfiles\Starter\Exercise 3\GradesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\github\20483-Programming-in-C\finishedFiles\Mod04\Labfiles\Starter\Exercise 3\GradesTest\obj\Debug\GradesTest.csproj.CopyComplete
+E:\github\20483-Programming-in-C\finishedFiles\Mod04\Labfiles\Starter\Exercise 3\GradesTest\obj\Debug\GradesTest.dll
+E:\github\20483-Programming-in-C\finishedFiles\Mod04\Labfiles\Starter\Exercise 3\GradesTest\obj\Debug\GradesTest.pdb
