@@ -1,0 +1,9 @@
+E:\github\20483-Programming-in-C\finishedFiles\Mod08\Labfiles\Starter\Exercise 2\Grades.DataModel\bin\Debug\Grades.DataModel.dll.config
+E:\github\20483-Programming-in-C\finishedFiles\Mod08\Labfiles\Starter\Exercise 2\Grades.DataModel\bin\Debug\Grades.DataModel.dll
+E:\github\20483-Programming-in-C\finishedFiles\Mod08\Labfiles\Starter\Exercise 2\Grades.DataModel\bin\Debug\Grades.DataModel.pdb
+E:\github\20483-Programming-in-C\finishedFiles\Mod08\Labfiles\Starter\Exercise 2\Grades.DataModel\bin\Debug\EntityFramework.dll
+E:\github\20483-Programming-in-C\finishedFiles\Mod08\Labfiles\Starter\Exercise 2\Grades.DataModel\bin\Debug\EntityFramework.xml
+E:\github\20483-Programming-in-C\finishedFiles\Mod08\Labfiles\Starter\Exercise 2\Grades.DataModel\obj\Debug\Grades.DataModel.csproj.CoreCompileInputs.cache
+E:\github\20483-Programming-in-C\finishedFiles\Mod08\Labfiles\Starter\Exercise 2\Grades.DataModel\obj\Debug\Grades.DataModel.csproj.CopyComplete
+E:\github\20483-Programming-in-C\finishedFiles\Mod08\Labfiles\Starter\Exercise 2\Grades.DataModel\obj\Debug\Grades.DataModel.dll
+E:\github\20483-Programming-in-C\finishedFiles\Mod08\Labfiles\Starter\Exercise 2\Grades.DataModel\obj\Debug\Grades.DataModel.pdb
