@@ -1,0 +1,6 @@
+E:\github\20483-Programming-in-C\finishedFiles\Mod09\Labfiles\Starter\Exercise 1\Grades.DataModel\bin\Debug\Grades.Web.Models.dll.config
+E:\github\20483-Programming-in-C\finishedFiles\Mod09\Labfiles\Starter\Exercise 1\Grades.DataModel\bin\Debug\Grades.Web.Models.dll
+E:\github\20483-Programming-in-C\finishedFiles\Mod09\Labfiles\Starter\Exercise 1\Grades.DataModel\bin\Debug\Grades.Web.Models.pdb
+E:\github\20483-Programming-in-C\finishedFiles\Mod09\Labfiles\Starter\Exercise 1\Grades.DataModel\obj\Debug\Grades.DataModel.csproj.CoreCompileInputs.cache
+E:\github\20483-Programming-in-C\finishedFiles\Mod09\Labfiles\Starter\Exercise 1\Grades.DataModel\obj\Debug\Grades.Web.Models.dll
+E:\github\20483-Programming-in-C\finishedFiles\Mod09\Labfiles\Starter\Exercise 1\Grades.DataModel\obj\Debug\Grades.Web.Models.pdb
