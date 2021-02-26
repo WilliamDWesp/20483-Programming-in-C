@@ -1,4 +1,4 @@
-# 20483-Programming-in-C
+# 20483-Programming-in-C-sharp
 https://unitedtraining.com/course-outline/courseid/200009890/coursename/20483-programming-in-c-sharp
 
 Course Objectives:<br />
@@ -18,3 +18,8 @@ Course Objectives:<br />
   -Encrypt and decrypt data by using symmetric and asymmetric encryption.<br />
 
 <br />
+the code where I worked on my own projects is in the finishedFiles folder
+the code with what I was given initally is at startingFiles
+the directions I was given are in the Directions folder
+
+
