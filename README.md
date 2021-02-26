@@ -19,7 +19,9 @@ Course Objectives:<br />
 
 <br />
 the code where I worked on my own projects is in the finishedFiles folder
+<br />
 the code with what I was given initally is at startingFiles
+<br />
 the directions I was given are in the Directions folder
 
 
