@@ -1,0 +1,6 @@
+E:\github\20483-Programming-in-C\finishedFiles\Mod12\Labfiles\Starter\Exercise 1\Grades.Utilities\bin\Debug\Grades.Utilities.dll
+E:\github\20483-Programming-in-C\finishedFiles\Mod12\Labfiles\Starter\Exercise 1\Grades.Utilities\bin\Debug\Grades.Utilities.pdb
+E:\github\20483-Programming-in-C\finishedFiles\Mod12\Labfiles\Starter\Exercise 1\Grades.Utilities\obj\Debug\Grades.Utilities.csprojAssemblyReference.cache
+E:\github\20483-Programming-in-C\finishedFiles\Mod12\Labfiles\Starter\Exercise 1\Grades.Utilities\obj\Debug\Grades.Utilities.csproj.CoreCompileInputs.cache
+E:\github\20483-Programming-in-C\finishedFiles\Mod12\Labfiles\Starter\Exercise 1\Grades.Utilities\obj\Debug\Grades.Utilities.dll
+E:\github\20483-Programming-in-C\finishedFiles\Mod12\Labfiles\Starter\Exercise 1\Grades.Utilities\obj\Debug\Grades.Utilities.pdb

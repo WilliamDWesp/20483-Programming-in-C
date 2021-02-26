@@ -16,3 +16,5 @@ Course Objectives:<br />
   -Integrate unmanaged libraries and dynamic components into a Visual C# application.<br />
   -Examine the metadata of types by using reflection, create and use custom attributes, generate code at runtime, and manage assembly versions.<br />
   -Encrypt and decrypt data by using symmetric and asymmetric encryption.<br />
+
+<br />
